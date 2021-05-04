@@ -1,4 +1,4 @@
-# Kaique902 - IPLocation
+# IPLocation
 
 Get IP Information, like country, AS, ISP, and others.
 
